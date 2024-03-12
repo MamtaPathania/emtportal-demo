@@ -1,0 +1,7 @@
+/* Assuming a CSS file */
+.custom-date-range-picker {
+    .rdrDefinedRangesWrapper {
+        display: none;
+    }
+  }
+  
